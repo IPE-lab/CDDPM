@@ -1,7 +1,7 @@
 # **conditional denoising diffusion probabilistic model (CDDPM)**
 ## Running screenshots show
 - **Workflow of the proposed method**
-  <img src="img/Workflow of the proposed method.jpg" width="400" />
+- <img src="img/Workflow of the proposed method.jpg" width="400" />
 ***
 ## Paper Support
 - Original information: A Missing Well-Logs Imputation Method Based on Conditional Denoising Diffusion Probabilistic Models.
